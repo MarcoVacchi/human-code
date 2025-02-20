@@ -142,11 +142,11 @@ Descrizione del mio problema
    - metto il fronte del primo foglio nello scanner
    - torno dal computer e salvo con nome il fronte del primo foglio nella cartella creata in precedenza
    - mi dirigo di nuovo verso lo scanner
-   - giro il foglio mettendo il retro del primo foglio nello scanner e salvo con nome il retro del primo foglio nella cartella creata in precedenza
-   - ripeto questo procedimento 
+   - giro il foglio mettendo il retro del primo foglio nello scanner e salvo con nome il retro del primo foglio nella cartella creata in precedenza 
    - FINCHE ci sono fogli che compongono la pratica
-  - Controllo che la mia cartella sul computer sia completa come mi ero prefissato
-  - Ripongo i fogli al loro posto, in un apposito cassetto nel mio ufficio
+     - ripeto questo procedimento
+  - Controllo che la mia cartella sul computer sia completa di tutti i file come mi ero prefissato
+  - Ripongo i fogli al loro posto, in un apposito cassetto nell'ufficio
   - Spengo lo scanner
   - Spengo il computer
 
