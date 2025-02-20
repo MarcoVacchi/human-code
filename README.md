@@ -121,27 +121,27 @@ Descrizione del mio problema
    - FINCHE non la trovo
  - Trovo la pratica
  - Cerco una soluzione innovativa per evitare di avere così tanti fogli di carta in giro 
-  - decido di scansionarla e archiviarla in formato digitale
-  - prendo in mano i fogli che compongono la pratica
-  - mi dirigo dallo scanner e il computer
-  - accendo il computer
-  - creo una cartella che conterrà il documento (pratica)
-  - collego lo scanner al pc 
-    - IF scanner nuovo 
-      - collega lo scanner al pc via bluetooth
-    - ELSE
-      - collega lo scanner al pc via cavo
-  - apro lo scanner
-  - metto il fronte del primo foglio nello scanner
-  - torno dal computer e salvo con nome il fronte del primo foglio nella cartella creata in precedenza
-  - mi dirigo di nuovo verso lo scanner
-  - giro il foglio mettendo il retro del primo foglio nello scanner e salvo con nome il retro del primo foglio nella cartella creata in precedenza
-  - ripeto questo procedimento 
-    - FINCHE ci sono fogli che compongono la pratica
- - Controllo che la mia cartella sul computer sia completa come mi ero prefissato
- - Ripongo i fogli al loro posto, in un apposito cassetto nel mio ufficio
- - Spengo lo scanner
- - Spengo il computer
+   - decido di scansionarla e archiviarla in formato digitale
+   - prendo in mano i fogli che compongono la pratica
+   - mi dirigo dallo scanner e il computer
+   - accendo il computer
+   - creo una cartella che conterrà il documento (pratica)
+   - collego lo scanner al pc 
+   - IF scanner nuovo 
+     - collega lo scanner al pc via bluetooth
+   - ELSE
+     - collega lo scanner al pc via cavo
+   - apro lo scanner
+   - metto il fronte del primo foglio nello scanner
+   - torno dal computer e salvo con nome il fronte del primo foglio nella cartella creata in precedenza
+   - mi dirigo di nuovo verso lo scanner
+   - giro il foglio mettendo il retro del primo foglio nello scanner e salvo con nome il retro del primo foglio nella cartella creata in precedenza
+   - ripeto questo procedimento 
+   - FINCHE ci sono fogli che compongono la pratica
+  - Controllo che la mia cartella sul computer sia completa come mi ero prefissato
+  - Ripongo i fogli al loro posto, in un apposito cassetto nel mio ufficio
+  - Spengo lo scanner
+  - Spengo il computer
 
   
 
