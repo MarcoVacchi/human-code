@@ -33,7 +33,7 @@ Descrizione del problema
 
 - Apro il frigorifero
  - Mi rendo conto che è vuoto
- - Penso a cosa comprare
+ - Penso a cosa comprare al supermercato
  - Apro il cassetto in cucina
     - SE trovo carta e penna 
       - Stillo una lista della spesa
@@ -71,16 +71,23 @@ Descrizione del problema
  - Mi dirigo alla cassa
   - chiedo una borsa per la spesa
   - chiedo il conto della spesa
-  - pago la spesa
-  - carico la spesa nel carrello
-    - SE rimane contante per gli snack extra
+  - guardo il conto della spesa
+  - SE rimane contante per gli snack extra
       - pago gli snack extra
     - ALTRIMENTI SE ho la carta di credito
       - pago con la carta
     - ALTRIMENTI metto giù gli snack
+  - pago la spesa
+  - carico la spesa nel carrello
  - Esco col carrello
-  - metto giù il carrello
+    - SE sono venuto al supermercato in macchina
+      - mi dirigo verso la macchina
+      - prendo la spesa dal carrello
+      - carico la spesa nella macchina
+    - ALTRIMENTI 
+      - metto giù il carrello 
  - Torno a casa con la spesa
+   
 
 
 
